@@ -1,7 +1,7 @@
 {
-  "name": "Minimalistic React-webpack-sass Boilerplate",
+  "name": "react-webpack-sass-boilerplate",
   "version": "0.0.1",
-  "description": "A Minimalistic React-webpack-sass Boilerplate",
+  "description": "A Minimalistic React-Webpack-Sass Boilerplate",
   "main": "src/index.js",
   "author": "anugregory007@gmail.com",
   "license": "MIT",
